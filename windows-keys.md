@@ -8,7 +8,7 @@ Index
   - [Default Product Keys](#default-product-keys)
   - [Default Product Keys for OEM Activation 3.0](#default-product-keys-for-oem-activation-30)
   - [RTM Default Product Keys](#rtm-default-product-keys)
-  - [KMS Client Product Keys](#kms-client-product-keys-2)
+  - [KMS Client Product Keys](#kms-client-product-keys-1)
 - [Windows 8](#windows-8)
   - [Preinstall Keys](#preinstall-keys)
 - [References](#references)
