@@ -109,5 +109,7 @@ References
 
 - https://devicepartner.microsoft.com/en-us/communications/comm-windows-10-build
 - https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/oem-activation-3?view=windows-10
+- https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys
+- https://support.microsoft.com/en-us/windows/activate-windows-c39005d4-95ee-b91e-b399-2820fda32227
 - https://www.tenforums.com/tutorials/95922-generic-product-keys-install-windows-10-editions.html
 - https://www.elevenforum.com/t/generic-product-keys-to-install-or-upgrade-windows-11-editions.3713/
