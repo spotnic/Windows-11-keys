@@ -6,7 +6,7 @@ Index
   - [KMS Client Product Keys](#kms-client-product-keys)
 - [Windows 10](#windows-10)
   - [Default Product Keys](#default-product-keys)
-  - [Default Product Keys with OEM Activation 3.0](#default-product-keys-with-oem-activation-30)
+  - [Default Product Keys for OEM Activation 3.0](#default-product-keys-for-oem-activation-30)
 - [Windows 8](#windows-8)
   - [Preinstall Keys](#preinstall-keys)
 - [References](#references)
