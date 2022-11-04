@@ -77,7 +77,7 @@ Default Product Keys
 | Windows 10 SL      | GH37Y-TNG7X-PP2TK-CMRMT-D3WV4 |
 | Windows 10 CHN SL  | 68WP7-N2JMW-B676K-WR24Q-9D7YC |
 
-Default Product Keys *with OEM Activation 3.0*
+Default Product Keys *for OEM Activation 3.0*
 ----------------------------------------------
 
 | Windows Version    | Product Key                   |
