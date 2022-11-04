@@ -7,7 +7,7 @@ Index
 - [Windows 10](#windows-10)
   - [Default Product Keys](#default-product-keys)
   - [Default Product Keys for OEM Activation 3.0](#default-product-keys-for-oem-activation-30)
-  - [RTM Default Product Keys](#rtm-default-product-keys)
+  - [RTM Product Keys](#rtm-product-keys)
   - [KMS Client Product Keys](#kms-client-product-keys-1)
 - [Windows 8](#windows-8)
   - [Preinstall Keys](#preinstall-keys)
@@ -93,8 +93,8 @@ See [learn.microsoft.com/windows-hardware/manufacture/desktop/oem-activation-3](
 | Windows 10 SL      | NTRHT-XTHTG-GBWCG-4MTMP-HH64C |
 | Windows 10 CHN SL  | 7B6NC-V3438-TRQG7-8TCCX-H6DDY |
 
-RTM Default Product Keys
-------------------------
+RTM Product Keys
+----------------
 
 | Windows Version                   | Product Key                   |
 |:----------------------------------|:------------------------------|
