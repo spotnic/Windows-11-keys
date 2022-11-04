@@ -8,6 +8,7 @@ Index
   - [Default Product Keys](#default-product-keys)
   - [Default Product Keys for OEM Activation 3.0](#default-product-keys-for-oem-activation-30)
   - [RTM Default Product Keys](#rtm-default-product-keys)
+  - [KMS Client Product Keys](#kms-client-product-keys-2)
 - [Windows 8](#windows-8)
   - [Preinstall Keys](#preinstall-keys)
 - [References](#references)
@@ -81,6 +82,8 @@ Default Product Keys
 Default Product Keys *for OEM Activation 3.0*
 ----------------------------------------------
 
+See [learn.microsoft.com/windows-hardware/manufacture/desktop/oem-activation-3](https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/oem-activation-3?view=windows-10)
+
 | Windows Version    | Product Key                   |
 |:-------------------|:------------------------------|
 | Windows 10 Home    | 37GNV-YCQVD-38XP9-T848R-FC2HD |
@@ -112,6 +115,41 @@ RTM Default Product Keys
 | Windows 10 Enterprise G N         | FW7NV-4T673-HF4VX-9X4MM-B4H4T |
 | Windows 10 Enterprise N           | WGGHN-J84D6-QYCPR-T7PJ7-X766F |
 | Windows 10 Enterprise S           | NK96Y-D9CD8-W44CQ-R8YTK-DYJWX |
+
+KMS Client Product Keys
+-----------------------
+
+| Windows Version                   | Product Key                   |
+|:----------------------------------|:------------------------------|
+| Windows 10 Home                   | TX9XD-98N7V-6WMQ6-BX7FG-H8Q99 |
+| Windows 10 Home N                 | 3KHY7-WNT83-DGQKR-F7HPR-844BM |
+| Windows 10 Home Single Language   | 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH |
+| Windows 10 Pro                    | W269N-WFGWX-YVC9B-4J6C9-T83GX |
+| Windows 10 Pro N                  | MH37W-N47XK-V7XM9-C7227-GCQG9 |
+| Windows 10 Pro for Workstations   | NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J |
+| Windows 10 Pro N for Workstations | 9FNHH-K3HBT-3W4TD-6383H-6XYWF |
+| Windows 10 S                      |                               |
+| Windows 10 Education              | NW6C2-QMPVW-D7KKK-3GKT6-VCFB2 |
+| Windows 10 Education N            | 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ |
+| Windows 10 Pro Education          | 6TP4R-GNPTD-KYYHQ-7B7DP-J447Y |
+| Windows 10 Pro Education N        | YVWGF-BXNMC-HTQYQ-CPQ99-66QFC |
+| Windows 10 Enterprise             | NPPR9-FWDCX-D2C8J-H872K-2YT43 |
+| Windows 10 Enterprise G           | YYVX9-NTFWV-6MDM3-9PT4T-4M68B |
+| Windows 10 Enterprise G N         | 44RPN-FTY23-9VTTB-MP9BX-T84FV |
+| Windows 10 Enterprise N           | DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4 |
+| Windows 10 Enterprise S           | FWN7H-PF93Q-4GGP8-M8RF3-MDWWW |
+| Windows 10 Enterprise 2015 LTSB   | WNMTR-4C88C-JK8YV-HQ7T2-76DF9 |
+| Windows 10 Enterprise 2015 LTSB N | 2F77B-TNFGY-69QQF-B8YKP-D69TJ |
+| Windows 10 Enterprise LTSB 2016   | DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ |
+| Windows 10 Enterprise N LTSB 2016 | QFFDN-GRT3P-VKWWX-X7T3R-8B639 |
+| Windows 10 Enterprise LTSC 2019   | M7XTQ-FN8P6-TTKYV-9D4CC-J462D |
+| Windows 10 Enterprise N LTSC 2019 | 92NFX-8DJQP-P6BBQ-THF9C-7CG2H |
+| Windows Server 2016 Datacenter    | CB7KF-BWN84-R7R2Y-793K2-8XDDG |
+| Windows Server 2016 Standard      | WC2BQ-8NRM3-FDDYY-2BFGV-KHKQY |
+| Windows Server 2016 Essentials    | JCKRF-N37P4-C2D82-9YXRT-4M63B |
+| Windows Server 2019 Datacenter    | WMDGN-G9PQG-XVVXX-R3X43-63DFG |
+| Windows Server 2019 Standard      | N69G4-B89J2-4G8F4-WWYCC-J464C |
+| Windows Server 2019 Essentials    | WVDHN-86M7X-466P6-VHXV7-YY726 |
 
 Windows 8
 =========
