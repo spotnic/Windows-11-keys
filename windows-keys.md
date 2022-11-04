@@ -43,6 +43,8 @@ RTM Generic Keys
 KMS Client Product Keys
 -----------------------
 
+See [learn.microsoft.com/windows-server/get-started/kms-client-activation-keys](https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys)
+
 | Windows Version                      | Product Key                   |
 |:-------------------------------------|:------------------------------|
 | Windows 11 Home                      | TX9XD-98N7V-6WMQ6-BX7FG-H8Q99 |
@@ -118,6 +120,8 @@ RTM Product Keys
 
 KMS Client Product Keys
 -----------------------
+
+See [learn.microsoft.com/windows-server/get-started/kms-client-activation-keys](https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys)
 
 | Windows Version                   | Product Key                   |
 |:----------------------------------|:------------------------------|
